@@ -4,7 +4,7 @@ Hello world Java application.
 
 ### Devops training 
 
-``` testing ```
+``` testing done ```
 
 
 ##### Testing 
